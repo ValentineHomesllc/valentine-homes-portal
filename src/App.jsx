@@ -6,7 +6,7 @@ import { Tabs, TabsList, TabsTrigger, TabsContent } from "./components/ui/tabs";
 export default function App() {return (
     <div>
       <h1>Valentine Homes Portal</h1>
-      <p>Welcome!</p>
+      <p>Welcome all!</p>
     </div>
   );
 }
